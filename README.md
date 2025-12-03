@@ -4,18 +4,6 @@ Full Stack Developer with 3 years of experience building scalable applications u
 
 ---
 
-# 📁 Table of Contents
-- [Professional Summary](#)
-- [Technical Skills](#)
-- [Project Experience](#)
-- [Work Experience](#)
-- [Education](#)
-- [Academic Projects](#)
-- [Positions of Responsibility](#)
-- [Achievements](#)
-
----
-
 <details>
 <summary><h2>💼 Professional Summary</h2></summary>
 
