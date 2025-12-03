@@ -7,14 +7,12 @@ Full Stack Developer with 3 years of experience building scalable applications u
 # 📁 Table of Contents
 - [Professional Summary](#)
 - [Technical Skills](#)
-- [Work Experience](#)
 - [Project Experience](#)
+- [Work Experience](#)
+- [Education](#)
 - [Academic Projects](#)
 - [Positions of Responsibility](#)
 - [Achievements](#)
-- [Extra-Curricular](#)
-- [Education](#)
-- [Contact](#)
 
 ---
 
@@ -84,6 +82,17 @@ Full Stack Developer with 3 years of experience building scalable applications u
 
 </details>
 
+
+---
+
+<details>
+<summary><h2>🎓 Education</h2></summary>
+
+- **IIT Bombay** — M.Tech Bio-Medical Engineering | CGPA: 8.81  
+- **NIT Warangal** — B.Tech Biotechnology  
+
+</details>
+
 ---
 
 <details>
@@ -149,29 +158,7 @@ Full Stack Developer with 3 years of experience building scalable applications u
 
 </details>
 
----
 
-<details>
-<summary><h2>🌱 Extra-Curricular Activities</h2></summary>
-
-### **Social Work**
-- Blood donation (Indian Red Cross)  
-- Beach cleanup (1200+ kg waste cleared)  
-- Robin Hood Army volunteer  
-- IITB Abhyuday — old-age home visits  
-- GenVision Fest volunteer  
-
-</details>
-
----
-
-<details>
-<summary><h2>🎓 Education</h2></summary>
-
-- **IIT Bombay** — M.Tech Biotechnology | CGPA: 8.81  
-- **NIT Warangal** — B.Tech Biotechnology  
-
-</details>
 
 ---
 
